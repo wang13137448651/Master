@@ -6,7 +6,6 @@ public class L {
 
 		System.out.println("two"+ "");
 
-		System.out.println("master");
 
 	}
 }
